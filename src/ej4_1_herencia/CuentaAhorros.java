@@ -47,7 +47,6 @@ public class CuentaAhorros extends Cuenta{
         System.out.println("\nSaldo: $" + saldo);
         System.out.println("Comisión Mensual: $" + comisionMensual); 
         System.out.println("Número de transacciones realizadas: " + transaccionesRealizadas);
-        System.out.println();
     }
     
 }
